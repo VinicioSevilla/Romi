@@ -30,11 +30,11 @@ $$\rho = \frac{m}{V}$$
 
 Where:
 
-$$\rho (rho) = density ( typically in $\frac{g}{cm³}$ or $\frac{kg}{m³}$ )$$
-
-$$m = mass (in grams or kilograms)$$
-
-$$V = volume (in cm³ or m³)$$
+\begin{align*}
+\rho (rho) = density ( typically in \frac{g}{cm³} or \frac{kg}{m³} )
+m = mass (in grams or kilograms)
+V = volume (in cm³ or m³)
+\end{align*}
 
 ### Mass Measurement
 Mass is measured using a balance or scale. In this lab, we use a digital balance for precise measurements.
