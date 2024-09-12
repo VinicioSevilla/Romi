@@ -26,16 +26,13 @@
 ### Density
 Density is defined as the mass per unit volume of a substance. It is expressed mathematically as:
 
-```math
-ρ = m / V
-```
+$$\rho = \frac{m}{V}$$
 
 Where:
-```math
-ρ (rho) = density (typically in g/cm³ or kg/m³)
-m = mass (in grams or kilograms)
-V = volume (in cm³ or m³)
-```
+
+$$\rho (rho) = density (typically in \frac{g}{cm³} or \frac{kg}{m³})$$
+$$m = mass (in grams or kilograms)$$
+$$V = volume (in cm³ or m³)$$
 
 ### Mass Measurement
 Mass is measured using a balance or scale. In this lab, we use a digital balance for precise measurements.
@@ -83,26 +80,26 @@ $$\delta{x} = {\frac{\Delta{x}}{\overline{x}}}$$
 
 ###     6.2 Table 2: Densities
 
-            ![Measurements and Uncertainties](./images/images/lab01_table02.png)
+            ![Densities](./images/lab01_table02.png)
 
 ###     6.3 Chart 1: Mass vs Volumen
 
-            ![Measurements and Uncertainties](./images/lab01_chart01.png)
+            ![Mass vs Volume](./images/lab01_chart01.png)
 
 
 ## 7. Analysis
 
 ###     7.1  Why is the relative error of the length larger than that of the diameter?
 
-            <p>The relative error in the measurement of length is greater than that of the diameter because the variation in the average of the length values is larger compared to the variation in the average of the diameter values.</p> 
+            The relative error in the measurement of length is greater than that of the diameter because the variation in the average of the length values is larger compared to the variation in the average of the diameter values. 
 
 ###     7.2  What is the meaning of the slope of the lines in your Mass vs. Volume graph?
 
-            <p>The slope of the graph represents the ratio of change in quantity of the y-axis and the change in quantity of the x-axis. It means that there is a directly proportional relationship between the mass of an object and its volume, that is, the greater the mass and volume, the greater the density and vice versa.</p> 
+            The slope of the graph represents the ratio of change in quantity of the y-axis and the change in quantity of the x-axis. It means that there is a directly proportional relationship between the mass of an object and its volume, that is, the greater the mass and volume, the greater the density and vice versa. 
 
 ###     7.3  Based on your results from Table 2 and your graph, are all cylinders made from the same material? Explain
 
-            <p>No, the data is grouped into two different segments, which means that the cylinders are at least made of two different materials, since their density is different. </p> 
+            No, the data is grouped into two different segments, which means that the cylinders are at least made of two different materials, since their density is different. 
 
 ###     7.4  Some cylinders are made of acetyl, and others are made of polystyrene. Their corresponding densities are 1.04 g/cm3 and 1.42 g/cm3 :
 
