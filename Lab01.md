@@ -30,11 +30,11 @@ $$\rho = \frac{m}{V}$$
 
 Where:
 
-$$\rho (rho)$$ = density (typically in g/cm³ or kg/m³)
+$$\rho (rho) = density ( typically in $\frac{g}{cm³}$ or $\frac{kg}{m³}$ )$$
 
-$$m$$ = mass (in grams or kilograms)
+$$m = mass (in grams or kilograms)$$
 
-$$V$$ = volume (in cm³ or m³)
+$$V = volume (in cm³ or m³)$$
 
 ### Mass Measurement
 Mass is measured using a balance or scale. In this lab, we use a digital balance for precise measurements.
@@ -108,7 +108,8 @@ The slope of the graph represents the ratio of change in quantity of the y-axis 
 
 No, the data is grouped into two different segments, which means that the cylinders are at least made of two different materials, since their density is different. 
 
-### 7.4  Some cylinders are made of acetyl, and others are made of polystyrene. Their corresponding densities are 1.04 g/cm3 and 1.42 g/cm3 :
+### 7.4  Some cylinders are made of acetyl, and others are made of polystyrene.
+### Their corresponding densities are 1.04 g/cm3 and 1.42 g/cm3 :
 
 - Complete the last column of Table 2 by identifying the material used in making a given cylinder. 
 - Determine your percentage errors in your slopes. 
