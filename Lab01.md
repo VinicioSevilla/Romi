@@ -31,9 +31,11 @@ Density is defined as the mass per unit volume of a substance. It is expressed m
 ```
 
 Where:
+```math
 ρ (rho) = density (typically in g/cm³ or kg/m³)
 m = mass (in grams or kilograms)
 V = volume (in cm³ or m³)
+```
 
 ### Mass Measurement
 Mass is measured using a balance or scale. In this lab, we use a digital balance for precise measurements.
@@ -47,7 +49,12 @@ Proper use of significant figures in measurements and calculations is crucial fo
 ### Error Analysis
 Understanding and calculating experimental errors, including percent error, helps in assessing the accuracy of our measurements and results.
 
-## 5. Conclusions
+## 5. Procedure
+1. First, the six largest cylinders are selected from the set. The caliper is used to measure their diameter in centimeters and the ruler is then used to measure their height in centimeters. The measurements are recorded on Table 1, including the uncertainty given by the measuring tool.
+2. The average diameter and average height of the cylinder set is calculated with the following equation.
+$$\overline{x} = {\sum_{i=1}^{N} x_{i}\over N}$$
+
+## 6. Conclusions
 
 In this laboratory experiment, we have explored the fundamental concept of density through hands-on measurements and calculations. By measuring the mass and volume of various objects and subsequently calculating their densities, we have gained practical experience in applying physical principles to real-world scenarios.
 
