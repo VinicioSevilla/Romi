@@ -32,9 +32,9 @@ Where:
 
 $$
 \begin{align*}
-\rho & = density ( \frac{g}{cm³} | \frac{kg}{m³} )\\
-m & = mass (g | kg)\\
-V & = volume (cm³ | m³)
+\rho & = \text{density ( typically in} \frac{g}{cm³} \text{or} \frac{kg}{m³} \text{)}\\
+m & = \text{mass in} (g \text{or} kg \text{)}\\
+V & = \text{volume in} (cm³ \text{or} m³ \text{)}
 \end{align*}
 $$
 
