@@ -96,6 +96,10 @@ $$\delta{x} = {\frac{\Delta{x}}{\overline{x}}}$$
 
 The relative error in the measurement of length is greater than that of the diameter because the variation in the average of the length values is larger compared to the variation in the average of the diameter values. 
 
+$$|\Delta d| (cm) = 0.011$$
+
+$$|\Delta h| (cm) = 0.404$$
+
 ### 7.2  What is the meaning of the slope of the lines in your Mass vs. Volume graph?
 
 The slope of the graph represents the ratio of change in quantity of the y-axis and the change in quantity of the x-axis. It means that there is a directly proportional relationship between the mass of an object and its volume, that is, the greater the mass and volume, the greater the density and vice versa. 
