@@ -50,41 +50,44 @@ Proper use of significant figures in measurements and calculations is crucial fo
 Understanding and calculating experimental errors, including percent error, helps in assessing the accuracy of our measurements and results.
 
 ## 5. Procedure
-1. First, the six largest cylinders are selected from the set. The caliper is used to measure their diameter in centimeters and the ruler is then used to measure their height in centimeters. The measurements are recorded on Table 1, including the uncertainty given by the measuring tool.
-2. The average diameter and average height of the cylinder set is calculated with the following equation.
+1.  First, the six largest cylinders are selected from the set. The caliper is used to measure their diameter in centimeters and the ruler is then used to measure their height in centimeters. The measurements are recorded on Table 1, including the uncertainty given by the measuring tool.
+2.  The average diameter and average height of the cylinder set is calculated with the following equation.
 
 $$\overline{x} = {\sum_{i=1}^{N} x_{i}\over N}$$
 
-3. Then the absolute error is determined in the set of measurements. First by     finding the absolute value of the difference between each measurement and their average and record in table 1. Then find the average of the difference with:
+3.  Then the absolute error is determined in the set of measurements. First by     finding the absolute value of the difference between each measurement and their average and record in table 1. Then find the average of the difference with:
 
 $$\Delta{x} = {\sum_{i=1}^{N} |x_{i} -\overline{x}|\over N}$$
 
-4. Then record the diameter and length using the average, absolute error format. 
+4.  Then record the diameter and length using the average, absolute error format. 
 
 $$x = \overline{x} \pm \Delta{x}$$
 
-5. After, determine the relative error in the measurements:
+5.  After, determine the relative error in the measurements:
 
-$$\delta{x} = {\frac{\Delta{x}}{\overline{x}}$$
+$$\delta{x} = {\frac{\Delta{x}}{\overline{x}}}$$
 
-6. And lastly, Determine the cylinder's average Volume and its corresponding absolute error.
-7. To find the Density of the materials the caliper and ruler are used to measure the diameter and length of the 15 cylinders the measurements are then recorded in the data table 2.
-8. The volume of each cylinder is calculated and recorded in Table 2. Then the digital scale is used to determine the mass of each cylinder which is recorded in table 2. 
-9. The density of each cylinder is then calculated and recorded in data table 2. Use logger Pro and graph Mass to get Volume. Then Determine the mathematical relationship between mass and volume 
+6.  And lastly, Determine the cylinder's average Volume and its corresponding absolute error.
+
+7.  To find the Density of the materials the caliper and ruler are used to measure the diameter and length of the 15 cylinders the measurements are then recorded in the data table 2.
+
+8.  The volume of each cylinder is calculated and recorded in Table 2. Then the digital scale is used to determine the mass of each cylinder which is recorded in table 2. 
+
+9.  The density of each cylinder is then calculated and recorded in data table 2. Use logger Pro and graph Mass to get Volume. Then Determine the mathematical relationship between mass and volume. 
 
 ## 6. Data Table
 
 ###     6.1 Table 1: Measurements and Uncertainties
 
-            ![Measurements and Uncertainties](images/lab01_table01.png)
+            ![Measurements and Uncertainties](./images/lab01_table01.png)
 
 ###     6.2 Table 2: Densities
 
-            ![Measurements and Uncertainties](images/lab01_table02.png)
+            ![Measurements and Uncertainties](./images/images/lab01_table02.png)
 
 ###     6.3 Chart 1: Mass vs Volumen
 
-            ![Measurements and Uncertainties](images/lab01_chart01.png)
+            ![Measurements and Uncertainties](./images/lab01_chart01.png)
 
 
 ## 7. Analysis
